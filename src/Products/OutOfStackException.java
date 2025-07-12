@@ -1,4 +1,4 @@
-package EmployeesDept;
+package Products;
 
 public class OutOfStackException extends Exception{
     @Override
